@@ -57,7 +57,8 @@ The dataset contains over **3,000+ SKUs** across categories like:
 
 ## 📷 Dashboard Preview
 
-![Zepto Dashboard](Screenshot 2025-06-25 233658.png)
+![Zepto Dashboard]
+![Screenshot 2025-06-25 233658](https://github.com/user-attachments/assets/7294999d-f62f-4a45-a36f-329bf1e0916d)
 
 ## 🚀 Getting Started
 
